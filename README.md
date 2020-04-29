@@ -1,5 +1,5 @@
 # freeCodeCamp
-JavaScript study note
+This is my study note for 30 days of JavaScript coding challenge.
 
 ## Resources
 JavaScript Algorithems and Data Structures Cerification Cources from [freeCodeCamp/learn](https://www.freecodecamp.org/learn/)
