@@ -1,0 +1,2 @@
+# freeCodeCamp
+JavaScript study note
