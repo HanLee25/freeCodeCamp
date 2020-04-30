@@ -1,8 +1,8 @@
-# freeCodeCamp
-This is my study note for 30 days of JavaScript coding challenge.
+# 300 hours of JavaScript Algorithems and Data Structures Cerification
+As a part of my 30 days of JavaScript coding challenge, this repository is my personal learning note for the course.
 
 ## Resources
-JavaScript Algorithems and Data Structures Cerification Cources from [freeCodeCamp/learn](https://www.freecodecamp.org/learn/)
+JavaScript Algorithems and Data Structures Cerification Cources from [freeCodeCamp.org/learn](https://www.freecodecamp.org/learn/)
 
 ## Topics
 
