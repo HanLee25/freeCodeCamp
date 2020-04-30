@@ -1,6 +1,8 @@
 # JavaScript Algorithems and Data Structures Cerification
 
-As a part of my 30 days of JavaScript coding challenge, this repository is my personal learning note for the course.
+As a part of my [30 days of JavaScript coding challenge], this repository is my personal learning note for the course.
+
+[30 days of JavaScript coding challenge]: https://dev.to/asabeneh/30-days-of-javascript-challenge-56kd
 
 ## Resources
 
